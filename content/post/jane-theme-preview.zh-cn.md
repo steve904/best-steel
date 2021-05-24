@@ -21,7 +21,7 @@ mathjax: true
 ---
 
 ## Some Ideas for Outdoor fun
-
+<!--more-->
 * Walking
 * Playing with your children
 * Listening to birds
