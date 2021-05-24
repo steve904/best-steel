@@ -5,7 +5,7 @@ lastmod: 2018-03-07T16:01:23+08:00
 draft: false
 tags: ["preview", "shortcodes", "tag-6"]
 categories: ["shortcodes", "index"]
-author: "Typora"
+author: "Stephen H Causey"
 
 weight: 1
 
@@ -20,7 +20,7 @@ contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="n
 mathjax: true
 ---
 
-## Some Ideas for Outdoor fun
+## Some Ideas for Outdoor Sun
 <!--more-->
 * Walking
 * Playing with your children
