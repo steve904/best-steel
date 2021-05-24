@@ -1,5 +1,5 @@
 ---
-title: "Jane 主题预览"
+title: "Enjoy The Outdoors"
 date: 2018-03-06T16:01:23+08:00
 lastmod: 2018-03-07T16:01:23+08:00
 draft: false
@@ -19,5 +19,3 @@ contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="n
 # reward: false
 mathjax: true
 ---
-
-主题预览,内容有待填充。
