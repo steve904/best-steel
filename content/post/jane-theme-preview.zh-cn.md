@@ -19,3 +19,10 @@ contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="n
 # reward: false
 mathjax: true
 ---
+
+## Some Ideas for Outdoor fun
+
+* Walking
+* Playing with your children
+* Listening to birds
+* Watching birds at feeders
