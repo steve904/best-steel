@@ -20,7 +20,7 @@ contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="n
 mathjax: true
 ---
 
-## Some Ideas for Outdoor Sun
+## Some Ideas for Outdoor Fun
 <!--more-->
 * Walking
 * Playing with your children
